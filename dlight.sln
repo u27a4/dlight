@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dlight", "dlight.csproj", "{628DFF07-A5A8-414C-B56C-42821BFC48CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628DFF07-A5A8-414C-B56C-42821BFC48CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628DFF07-A5A8-414C-B56C-42821BFC48CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628DFF07-A5A8-414C-B56C-42821BFC48CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628DFF07-A5A8-414C-B56C-42821BFC48CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4269ADEA-E11D-4370-8739-97E3B3821EBA}
+	EndGlobalSection
+EndGlobal
